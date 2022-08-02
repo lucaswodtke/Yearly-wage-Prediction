@@ -18,7 +18,7 @@ O segundo dataset chamado de wage_test possui 16281 linhas e 14 colunas e não p
 
 ## Visualizar
 
-Caso não queira executar o Notebook pode vizualizá-lo através do Nbviewer.
+Caso não queira executar o Notebook pode visualizá-lo através do Nbviewer.
 
 - Relatório de EDA .ipynb (https://nbviewer.org/github/lucaswodtke/Yearly-wage-Prediction/blob/main/Relat%C3%B3rio%20de%20EDA%20.ipynb)
 - Códigos de modelagem .ipynb (https://nbviewer.org/github/lucaswodtke/Yearly-wage-Prediction/blob/main/C%C3%B3digos%20de%20modelagem%20.ipynb)
