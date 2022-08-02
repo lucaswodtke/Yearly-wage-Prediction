@@ -6,7 +6,7 @@ O segundo dataset chamado de wage_test possui 16281 linhas e 14 colunas e não p
 
 ## Instalações Necessárias
 
--Anaconda Download and Install Anaconda
+- Anaconda Download and Install Anaconda
 - Jupyter (https://anaconda.org/anaconda/jupyter)
 - Pacotes utilizados no arquivo requirements
 
